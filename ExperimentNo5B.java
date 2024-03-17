@@ -2,7 +2,6 @@ public class ExperimentNo5B {
     public static void main(String[] args) {
         Vehicle vehicle = new Vehicle();
         vehicle.start();
-
         SportsCar sportsCar = new SportsCar();
         sportsCar.start();
         sportsCar.drive();
