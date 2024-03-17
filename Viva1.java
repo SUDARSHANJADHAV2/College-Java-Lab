@@ -1,5 +1,4 @@
 import java.util.*;
-
 interface Shape {
     double getArea();
 }
