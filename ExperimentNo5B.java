@@ -5,7 +5,6 @@ public class ExperimentNo5B {
         SportsCar sportsCar = new SportsCar();
         sportsCar.start();
         sportsCar.drive();
-
     }  
 }
 class Vehicle {
