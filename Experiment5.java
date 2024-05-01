@@ -1,6 +1,5 @@
 import java.time.LocalDate;
 import java.time.Period;
-
 class Person {
     String name;
     LocalDate birthdate;
