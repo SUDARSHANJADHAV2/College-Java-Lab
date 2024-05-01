@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 // Define the StackInterface
 interface Stack {
     void push(int value);
