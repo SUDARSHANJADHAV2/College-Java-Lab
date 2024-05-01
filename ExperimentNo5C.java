@@ -12,6 +12,7 @@ class Rectangle extends Shape {
     @Override
     double getArea() {
         return length * width;
+    
     }
 }
 public class ExperimentNo5C {
