@@ -14,6 +14,7 @@ class Person
         Name=a;
     }
 };
+
 class Role 
 {
     protected :
