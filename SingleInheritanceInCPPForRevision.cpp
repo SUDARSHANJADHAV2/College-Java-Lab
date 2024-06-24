@@ -11,6 +11,7 @@ class student
     int getinfo1();
     char getinfo2();
 };
+
 void student ::  setdate(void)
 {
     int a;
