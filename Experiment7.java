@@ -18,7 +18,6 @@ public class Experiment7 {
         } catch (ArithmeticException e) {
             System.out.println(e);
         }
-        
         System.out.println("Program Ended");
     }
 }
