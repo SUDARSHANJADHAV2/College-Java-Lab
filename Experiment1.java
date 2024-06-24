@@ -10,7 +10,6 @@ public class Experiment1 {
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
             month_days[2] = 29;
         }  
-        
         if ((month < 1) || (month > 12)) {
             System.out.println("Invalid date : Month must be in between 1 to 12");
             return;
