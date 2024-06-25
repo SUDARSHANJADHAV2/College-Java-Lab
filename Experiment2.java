@@ -16,6 +16,7 @@ public class Experiment2 {
                 matrix1[i][j] = scanner.nextInt();
             }
         }
+        
         // Input elements for the second matrix
         System.out.println("Enter the elements of the second matrix:");
         for (int i = 0; i < rows; i++) {
