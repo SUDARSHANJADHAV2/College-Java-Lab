@@ -21,7 +21,6 @@ public class Experiment13 extends JFrame implements ActionListener {
         JMenuItem saveMenuItem = new JMenuItem("Save");
         JMenuItem saveAsMenuItem = new JMenuItem("Save As...");
         JMenuItem exitMenuItem = new JMenuItem("Exit");
-
         newMenuItem.addActionListener(this);
         openMenuItem.addActionListener(this);
         saveMenuItem.addActionListener(this);
