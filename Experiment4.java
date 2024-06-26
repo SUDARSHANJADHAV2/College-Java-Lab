@@ -18,6 +18,7 @@ public class Experiment4 {
                 System.out.println("Interest rate cannot be negative.");
             }
         }
+        
         // Method to calculate monthly interest and add it to the savings balance
         public void calculateMonthlyInterest() {
             double monthlyInterest = (savingsBalance * annualInterestRate) / 12;
