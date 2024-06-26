@@ -18,7 +18,6 @@ class EmployeeInfo {
     }
 
 }
-
 class Experiment3 {
     public static void main(String[] args) {
         EmployeeInfo ab = new EmployeeInfo();
