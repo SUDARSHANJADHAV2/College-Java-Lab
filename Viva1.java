@@ -2,6 +2,7 @@ import java.util.*;
 interface Shape {
     double getArea();
 }
+
 class Rectangle implements Shape {
     private double length;
     private double breadth;
