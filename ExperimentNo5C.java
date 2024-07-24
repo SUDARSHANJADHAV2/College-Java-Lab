@@ -2,7 +2,6 @@
 abstract class Shape {
     abstract double getArea();
 }
-
 class Rectangle extends Shape {
     private double length;
     private double width;
