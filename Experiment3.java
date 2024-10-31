@@ -15,7 +15,6 @@ class EmployeeInfo {
         System.out.println("Employee name :" + emp_name);
         System.out.println("Employee address : " + emp_address);
         System.out.println("Employee salary :" + emp_salary);
-
     }
 
 }
