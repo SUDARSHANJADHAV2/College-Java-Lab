@@ -14,6 +14,7 @@ interface Queue {
 
     void displayQueue();
 }
+
 // Implement both interfaces in the StackQueue class
 class StackQueue implements Stack, Queue {
     private static final int MAX_SIZE = 100;
