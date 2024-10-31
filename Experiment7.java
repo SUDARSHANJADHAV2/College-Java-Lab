@@ -15,7 +15,6 @@ public class Experiment7 {
                 c = a[i] % b;
                 System.out.println(c);
             }
-            
         } catch (ArithmeticException e) {
             System.out.println(e);
         }
