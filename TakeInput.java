@@ -7,7 +7,6 @@ public class TakeInput {
         Scanner str = new Scanner(System.in);
         System.out.print("Enter a String : ");
         String Sentence = str.nextLine();
-        
         // when you use a string to take a sentence input from user then you need to
         // used a separate scanner for it if the input statement is after some other
         // input statement
