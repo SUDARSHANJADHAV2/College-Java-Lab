@@ -16,7 +16,6 @@ class Rectangle implements Shape {
         return length * breadth;
     }
 }
-
 class Triangle implements Shape {
     private double base;
     private double height;
