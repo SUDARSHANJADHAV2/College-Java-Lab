@@ -6,7 +6,6 @@ public class Experiment1 {
         int date = sc.nextInt();
         int month = sc.nextInt();
         int year = sc.nextInt();
-
         int month_days[] = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
         if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
             month_days[2] = 29;
