@@ -13,7 +13,6 @@ int area(int side)
     {
         return side*side;
     }
-    
 float area(float radius)
 {
     return 3.14*radius*radius;
