@@ -9,7 +9,6 @@ class EmployeeInfo {
         this.emp_name = emp_name;
         this.emp_address = emp_address;
         this.emp_salary = emp_salary;
-
     }
     public void getdata() {
         System.out.println("Employee ID :" + emp_id);
