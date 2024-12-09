@@ -14,6 +14,7 @@ public class Experiment13 extends JFrame implements ActionListener {
         add(scrollPane);
         // Create the menu bar
         JMenuBar menuBar = new JMenuBar();
+        
         // Create File menu
         JMenu fileMenu = new JMenu("File");
         JMenuItem newMenuItem = new JMenuItem("New");
