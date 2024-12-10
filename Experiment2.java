@@ -7,7 +7,6 @@ public class Experiment2 {
         System.out.println("Enter the number of rows and columns for the matrices");
         int rows = scanner.nextInt();
         int cols = scanner.nextInt();
-
         int[][] matrix1 = new int[rows][cols];
         int[][] matrix2 = new int[rows][cols];
         // Input elements for the first matrix
