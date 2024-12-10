@@ -10,6 +10,7 @@ public class Experiment4 {
         public SavingsAccount(double balance) {
             this.savingsBalance = balance;
         }
+        
         // Static method to set the annual interest rate
         public static void modifyInterestRate(double newRate) {
             if (newRate >= 0) {
