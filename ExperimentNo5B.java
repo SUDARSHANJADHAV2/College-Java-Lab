@@ -15,6 +15,7 @@ class Vehicle {
         System.out.println("Vehicle is driving");
     }
 }
+
 class SportsCar extends Vehicle {
     @Override
     public void drive() {
