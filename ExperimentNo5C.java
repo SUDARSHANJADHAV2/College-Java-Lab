@@ -15,6 +15,7 @@ class Rectangle extends Shape {
         return length * width;
     }
 }
+
 public class ExperimentNo5C {
     public static void main(String[] args) {
         Rectangle rectangle = new Rectangle(5, 3);
